@@ -1,5 +1,7 @@
 # Quotes from the Bible in the Book of Mormon
 
+This only includes whole chapters (or nearly whole chapters) quoted in the Book of Mormon. There are several individual verses quoted in several places, and I will update this list as I add them.
+
 ## 1 Nephi
 
 - [1 Nephi 20 and Isaiah 48](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/d5655c4d5ebc1385b62cec09a938b583511f59e1)
