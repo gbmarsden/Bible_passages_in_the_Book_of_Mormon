@@ -9,8 +9,10 @@ This only includes whole chapters (or nearly whole chapters) quoted in the Book 
 
 ## 2 Nephi
 
+- [2 Nephi 6:6 and Isaiah 49:22](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/d5e187521a2248fd6243fb946a76800d4624ac68)
 - [2 Nephi 7 and Isaiah 50](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/2c69e24a55a3aac7bce19a12f616a8d0fd9511aa)
 - [2 Nephi 8 and Isaiah 51 and Isaiah 52:1-2](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/06065fad6bb67a1c1382b6bf491eaddc9d7be10c)
+- [2 Nephi 9:50-51 and Isaiah 55:1-2](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/5c834bcddc12bb0726c5d9b6e68b6f833794c27b)
 - [2 Nephi 12 and Isaiah 2](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/238862a0b3d807e543e12b829e65ac68e891ccc4)
 - [2 Nephi 13 and Isaiah 3](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/7218918acc4ee79f20c4bc4a8cb6f0489efda080)
 - [2 Nephi 14 and Isaiah 4](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/f6cf37e42cccfc1da3af0030cd7c0ebbca6d08dd)
@@ -34,9 +36,13 @@ This only includes whole chapters (or nearly whole chapters) quoted in the Book 
   - [2 Nephi 27:17 and Isaiah 29:11](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/a6b065fbe44027ee39d23f71cb3123f273b46988)
   - [2 Nephi 27:19 and Isaiah 29:12](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/4e6fdd343f70792efcea5ee409af1d9c5a51bb86)
   - [2 Nephi 27:25-35 and Isaiah 29:13-24](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/c1eae1e6d8637550ec5c7fa039f16cf34a31f0cf)
+- 2 Nephi 30 and Isaiah 11
+  - [2 Nephi 30:9 and Isaiah 11:4](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/f44273b4aa76f8bde0b627a0bb5aa8fc8d8d3acc)
+  - [2 Nephi 30:11-15 and Isaiah 11:5-9](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/7385b82a86354a7531449ba4ae5713c0e8d1b8bd)
 
 ## Mosiah
 
+- [Mosiah 12:21-24 and Isaiah 52:7-10](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/8841b3022e56b15f6409aa265ee070aba96d67ed)
 - [Mosiah 14 and Isaiah 53](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/80ef92b5d3820c170bac8530c7ead13b1104417e)
 
 ## 3 Nephi
@@ -50,6 +56,9 @@ This only includes whole chapters (or nearly whole chapters) quoted in the Book 
   - [3 Nephi 20:36-38 and Isaiah 52:1-3](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/5ffc24c39011f2b692d253a1e8f630eec8c7db2b)
   - [3 Nephi 20:39-40 and Isaiah 52:6-7](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/50626ecaf6e2ab562ba5cecba0608ba86b6117fa)
   - [3 Nephi 20:41-45 and Isaiah 52:11-15](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/12a45fc4850747fb139e4c0bda7429a387dd2c9c)
+- 3 Nephi 21 and Isaiah 52
+  - [3 Nephi 21:8 and Isaiah 52:15](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/407d9f1ed9573d8cea332ef314613b6c885d3405)
+  - [3 Nephi 21:29 and Isaiah 52:12](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/70c93f61a7fbbfff43811e32ff5e3af752caa677)
 - [3 Nephi 22 and Isaiah 54](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/f81df94a2184f251ced095c4d680f7fdb4bbe0fa)
 - [3 Nephi 24 and Malachi 3](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/b1b3932f63494cbd46d06f1d61d6e1fdbb414e5d)
 - [3 Nephi 25 and Malachi 4](https://github.com/gbmarsden/Bible_passages_in_the_Book_of_Mormon/commit/1880566fbd588f8f8b88a8cf6108bd591f6c3798)
